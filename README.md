@@ -1,6 +1,5 @@
 #Vertical Align Middle
-
-![](imgs/img.jpg?raw=true)
+[![](imgs/img.jpg?raw=true)](https://www.facebook.com/ducit "Duc's Homepage")
 
 ```
 .selector{

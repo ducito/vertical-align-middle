@@ -1,0 +1,17 @@
+.wrapper{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+    margin: 0 auto;
+    float: none;
+}
+
+a{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align:center;
+    display:block;
+}
